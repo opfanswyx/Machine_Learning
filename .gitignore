@@ -1,0 +1,10 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
+*.pyc
+
+#idea
+.idea
